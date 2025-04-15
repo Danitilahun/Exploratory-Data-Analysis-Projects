@@ -34,16 +34,3 @@ In today’s fast-paced, globally connected market, FedEx Logistics plays a pivo
 ### Hotel Booking Analysis - (EDA)
 
 The hotel industry operates in a highly competitive environment, making it imperative for hoteliers to continuously adapt and innovate to remain ahead. A critical aspect of maintaining a competitive edge is understanding customer behavior and booking trends. This can be achieved through comprehensive Exploratory Data Analysis (EDA) of hotel booking data, which provides valuable insights into customer preferences, booking patterns, and potential areas for strategic improvement. This analysis aims to reveal key aspects of customer behavior and hotel booking trends, enabling hotels to enhance their business outcomes.
-
-## Usage
-If you're interested in exploring any of the projects, simply click on the project link to navigate to the respective folder. Each project folder contains detailed documentation and code files.
-
-## Contributions
-Contributions are welcome! If you have any suggestions for improvements or would like to collaborate, feel free to open an issue or submit a pull request.
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your specific projects and preferences.
